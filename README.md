@@ -1,4 +1,4 @@
 Olá! :)
 
 - 🖥️ Estudante de Ciência da Computação em Cefet/RJ
-- 🇺🇸 Inglês intermediário (Cambridge FCE)
+- Inglês intermediário (Cambridge FCE)
