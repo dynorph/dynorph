@@ -3,6 +3,7 @@
 <div align="center">
   <img height=160rm src="https://github-readme-stats.vercel.app/api?username=dynorph&theme=dark&show_icons=true">
   <img height=160rm src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynorph&theme=dark&layout=compact">
+  <a href="https://holopin.io/@dynorph">
+    <img height=230rm src="https://holopin.me/dynorph">
+  </a>
 </div>
-
-[![An image of @dynorph's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dynorph)](https://holopin.io/@dynorph)
