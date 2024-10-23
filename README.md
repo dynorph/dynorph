@@ -1,6 +1,5 @@
-# Olá! Bem-vindo ao meu perfil. :) #
-
 <div align="center">
+  <h2>Olá! Bem-vindo ao meu perfil. :)</h2>
   <p>Estudante de Ciência da Computação - CEFET/RJ |  Fluente em Inglês intermediário (nível B2, Cambridge)</p>
   <img height=160rm src="https://github-readme-stats.vercel.app/api?username=dynorph&theme=dark&show_icons=true">
   <img height=160rm src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynorph&theme=dark&layout=compact">
