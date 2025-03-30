@@ -3,6 +3,7 @@
 ### ℹ️ Sobre Mim
 
 - 💻 Estudante de Ciência da Computação no CEFET/RJ
+- ⚛️ Desenvolvedor Front-end @ Ramo Estudantil IEEE CEFET/RJ
 - 👀 Interessado em Desenvolvimento Web
 - ❓ Curioso sobre Blockchain e suas aplicações
 
