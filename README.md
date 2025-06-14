@@ -4,7 +4,7 @@
 
 - 💻 Estou estudando Ciência da Computação no CEFET/RJ;
 - ⚛️ Atuo como desenvolvedor front-end na equipe WolfByte do Ramo Estudantil IEEE CEFET/RJ;
-- ❓ Tenho interesse em aprender mais sobre Blockchain e Web3.
+- ❓ Tenho interesse em aprofundar meus conhecimentos à respeito de Blockchain e Web3.
 
 ### 🛠️ Tecnologias e Ferramentas
 
