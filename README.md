@@ -31,9 +31,6 @@
   <a alt="LinkedIn" href="https://www.linkedin.com/in/erickmsilva19/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
   </a>
-  <a alt="Gmail" href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTKXCdcXfVJKdhkQKSDqNDTRCszBpvfKpMrpKKvgJHDWblJBtRhHDvPbJMpQVQxrGFVRSV">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
-  </a>
 </div>
 
 ### [![An image of @dynorph's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dynorph)](https://holopin.io/@dynorph)
