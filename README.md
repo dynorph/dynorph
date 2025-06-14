@@ -25,12 +25,4 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dynorph&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
 </a>
 
-### 💬 Contato
-
-<div id="Social">
-  <a alt="LinkedIn" href="https://www.linkedin.com/in/erickmsilva19/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
-  </a>
-</div>
-
 ### [![An image of @dynorph's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dynorph)](https://holopin.io/@dynorph)
