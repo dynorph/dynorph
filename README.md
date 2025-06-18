@@ -1,5 +1,9 @@
 <h2 align="center">Olá! Bem-vindo ao meu perfil. :)</h2>
 
+<div align="center">
+	<img src="https://www.codewars.com/users/dynorph/badges/micro"/>
+</div>
+
 ### ℹ️ Sobre Mim
 
 - 💻 Estou estudando Ciência da Computação no CEFET/RJ;
