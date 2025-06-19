@@ -21,11 +21,9 @@
 
 ### 📈 Estatísticas
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=erickMartinsSilva&rank_icon=github&theme=transparent"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickMartinsSilva&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
-</a>
+<div align="center">
+	<img height=190 align="center" hspace="30" src="https://github-readme-stats.vercel.app/api?username=erickMartinsSilva&rank_icon=github&theme=transparent"/>
+	<img height=190 align="center" hspace="30" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickMartinsSilva&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
+</div>
 
 ### [![An image of @dynorph's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dynorph)](https://holopin.io/@dynorph)
