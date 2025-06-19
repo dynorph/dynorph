@@ -17,14 +17,15 @@
 - 💻 Estou estudando Ciência da Computação no CEFET/RJ;
 - ⚛️ Atuo como desenvolvedor front-end na equipe WolfByte do Ramo Estudantil IEEE CEFET/RJ;
 - ❓ Tenho interesse em aprofundar meus conhecimentos à respeito de Blockchain e Web3.
+- 🎮 No meu tempo livre, gosto de jogar, ouvir música e ler.
 
 ### 📈 Estatísticas
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=dynorph&rank_icon=github&theme=transparent"/>
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=erickMartinsSilva&rank_icon=github&theme=transparent"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dynorph&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickMartinsSilva&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
 </a>
 
 ### [![An image of @dynorph's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dynorph)](https://holopin.io/@dynorph)
