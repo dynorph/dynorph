@@ -22,7 +22,7 @@
 ### 📈 Estatísticas
 
 <div align="center">
-	<img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=erickMartinsSilva&rank_icon=github&theme=transparent"/>
+	<img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=erickMartinsSilva&rank_icon=github&theme=transparent"/>
 	<img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickMartinsSilva&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
 </div>
 
